@@ -1,0 +1,36 @@
+body{
+
+font-family: Arial, Helvetica, sans-serif;
+margin: auto;
+width: 900px;
+
+
+}
+main{background-color: rgb(248, 240, 230);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 2px;
+}
+
+header{background-color: rgb(219, 210, 196);
+border-radius: 5px;
+border: 70px;
+padding: 10px 5px 10px 5px;
+text-align: center;
+
+}
+h2{text-align: center;
+color: brown;
+}
+
+div{
+text-align: center;
+padding: 20px;
+
+}
+section{
+    text-align: center;
+}
+#desp{text-align: center;
+font-style: italic;
+}
